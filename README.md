@@ -4,9 +4,10 @@
 
 Botten er ikke knyttet til det virkelige liv og er ikke assosiert med DNB
 
+## ER IKKE LANSERT ENDA. JOIN SUPPORT SERVER FOR MER INFO!
 ## Support server: https://discord.gg/6xY52zjBgk
 
-# ER IKKE LANSERT ENDA. JOIN SUPPORT SERVER FOR MER INFO!
+
 
 ### Funksjoner
 
