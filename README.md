@@ -28,6 +28,8 @@ Botten er ikke knyttet til det virkelige liv og er ikke assosiert med DNB
 - !lån (beløp på maks 35000). Tar et lån fra banken. Summen overføres til ditt kredittkort. Du kan ikke ta opp et lån om du har en dårlig kredittsjekk. Om du har over 10 000KR i gjeld får du dårlig kredittsjekk.
 
 ![lon](https://user-images.githubusercontent.com/53818982/142240840-f626e252-79b7-4bb6-ba47-3ea2cf7a0b71.png?v=123)
+![image](https://user-images.githubusercontent.com/53818982/142242027-d1fb4f3d-632e-4e14-b12b-6bc3f883e4ac.png?v=123)
+
 
 
 - !betalgjeld (beløp). Betaler ned et beløp fra gjelden din. Du kan se gjelden med !konto
