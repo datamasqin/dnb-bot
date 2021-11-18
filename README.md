@@ -6,7 +6,7 @@ Botten er ikke knyttet til det virkelige liv og er ikke assosiert med DNB
 
 ## ER IKKE LANSERT ENDA. JOIN SUPPORT SERVER FOR MER INFO!
 ## Support server: https://discord.gg/6xY52zjBgk
-
+### Lanseringsdato: Ukjent.
 
 
 ### Funksjoner
@@ -15,6 +15,14 @@ Botten er ikke knyttet til det virkelige liv og er ikke assosiert med DNB
 - Kreditt og gjeld
 - Overføringer
 - Vipps-giveaways
+
+### Jobbes med
+- Bugs og feilrettinger
+- Muligheten for å bruke debet og kredittkortene.
+- Overføring fra kredittkort 
+- Jobber med å fikse at boten funker på alle servere uten bugs
+- Vurderer en Pro versjon om det er ønsket
+
 
 ### Kommandoer
 
