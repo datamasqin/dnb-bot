@@ -59,3 +59,4 @@ Botten er ikke knyttet til det virkelige liv og er ikke assosiert med DNB
 ![vipps](https://user-images.githubusercontent.com/53818982/142241244-5ee54b80-bde4-4ce2-a66a-353e73d4d829.png?v=123)
 
 
+![image](https://user-images.githubusercontent.com/53818982/143463865-5c0b9b8d-b2f0-41e2-bdc8-4b19d90d1fc5.png)
